@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Collision Avoidance</string>
+    <string name="gui_start">Start</string>
+    <string name="gui_stop">Stop</string>
+    <string name="gui_settings">Settings</string>
+    <string name="gui_save">save</string>
+    <string name="gui_sampling_rate">Sampling rate (Hz)</string>
+    <string name="gui_first_sensor_value">Proximity sensor alarm value</string>
+    <string name="gui_second_sensor_valueX">Accelerometer sensor alarm value X</string>
+    <string name="gui_second_sensor_valueY">Accelerometer sensor alarm value Y</string>
+    <string name="gui_second_sensor_valueZ">Accelerometer sensor alarm value Z</string>
+
+    <string name="menu_appsettings">Application settings</string>
+    <string name="menu_exit">Exit</string>
+    <string name="textViewProximitySensor">ProximitySensor (cm)</string>
+    <string name="textViewAccelerometerX">AccelerometerX(m/s^2)</string>
+    <string name="textViewAccelerometerY">AccelerometerY(m/s^2)</string>
+    <string name="textViewAccelerometerZ">AccelerometerZ(m/s^2)</string>
+    <string name="online">online</string>
+</resources>
